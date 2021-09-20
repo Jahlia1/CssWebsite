@@ -1,0 +1,116 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin-top: 10vh;
+  margin-bottom: 1px;
+  font-family: "Sacramento";
+  font-size: 7.625rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+p {
+  color: #40514e;
+}
+span {
+  color: white;
+}
+h2 {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  margin: 1px auto 0 auto;
+  color: #66bfbf;
+  font-weight: bolder;
+}
+h3 {
+  font-family: "Monrserrat";
+  color: #66bfbf;
+  font-size: 1.5rem;
+}
+hr {
+  border-style: dotted none none;
+  height: 10px;
+  width: 5%;
+  border-width: 10px;
+  color: #b4cccc;
+}
+.topContainer {
+  margin-left: 0;
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 1vh;
+  height: 100vh;
+}
+.middle-container {
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 20px;
+}
+.pro {
+  text-decoration: underline;
+  color: #66bfbf;
+}
+.mountain {
+  position: absolute;
+  bottom: 3vh;
+  right: 75vh;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 10vw;
+  bottom: 40vh;
+  height: 20rem;
+}
+
+.topCloud {
+  position: absolute;
+  right: 10vw;
+  top: 1rem;
+  height: 20rem;
+}
+
+.skill-row {
+  position: relative;
+  width: 50%;
+  margin: 100px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.design {
+  width: 25%;
+  float: left;
+  margin-right: 2rem;
+}
+.gaming {
+  float: right;
+  width: 25%;
+  margin-left: 2rem;
+}
+
+.btn {
+  padding: 15px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  border: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-bottom: 150px;
+}
+a {
+  text-decoration: none;
+  padding: 20px;
+  color: #eaf6f6;
+}
+
+.bottomlinks {
+  color: #11999e;
+  font-size: 1.5rem;
+}
